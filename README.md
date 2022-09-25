@@ -1,2 +1,2 @@
-# Deep-Learning
-## It'a all about deep thinking and deep learning🍻
+# Deep-Learning -
+## It'a all about DEEP THINKING and DEEP LEARNING🍻
