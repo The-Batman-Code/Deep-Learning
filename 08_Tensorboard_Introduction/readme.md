@@ -9,4 +9,4 @@
 ![Adam](Adam.png)
 
 # Accuracy and Loss comparison of SGD and Adam hyperparameters
-![Accuracy_Loss_Comparison](Accuracy_Loss_Comparison.png)
+
