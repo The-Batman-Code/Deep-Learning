@@ -4,4 +4,4 @@
 
 
 # SGD hypermarameter-
-[SGD](SGD.png)
+![SGD](SGD.png)
